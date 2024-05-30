@@ -1,0 +1,1 @@
+function [I] =  Intersections_with_interval_bezier(n1,m1,n2,m2,b1,b2,B,T0,e,N0)
